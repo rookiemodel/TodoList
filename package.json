@@ -1,8 +1,8 @@
 {
-  "name": "escampaign",
+  "name": "TodoList",
   "version": "1.0.0",
-  "description": "Lexus ES Campaign",
-  "author": "designfever",
+  "description": "Todo List - MVC Pattern",
+  "author": "Jinyong Joo",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-rename": "^1.2.2",
