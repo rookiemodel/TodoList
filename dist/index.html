@@ -1,0 +1,34 @@
+<!doctype html>
+
+<html lang="ko">
+<head>
+    <title>Todo List - MVC Pattern</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta http-equiv="content-type" content="text/html; charset=euc-kr" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" id="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0,user-scalable=no" />
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/style.min.css">
+    <script src="js/vendor/require-2.1.9.min.js" data-main="js/script.min.js"></script>
+</head>
+
+<body>
+    <section id="todoapp">
+        <header id="header">
+            <h1>Todo List</h1>
+            <input id="new-todo" placeholder="What needs to be done?" autofocus>
+        </header>
+
+        <section id="main">
+            <input id="toggle-all" type="checkbox">
+            <label for="toggle-all">Mark all as complete</label>
+            <ul id="todo-list"></ul>
+        </section>
+
+        <footer id="footer"></footer>
+    </section>
+</body>
+</html>
