@@ -1,5 +1,4 @@
-Todo List
-  ================
-  
 Todo List - MVC Pattern
-Require.js & Backbone MVC Framework ¡æ JavaScript Build, Gulp
+================
+
+Require.js & Backbone MVC Framework Â¡Ã¦ JavaScript Build, Gulp
