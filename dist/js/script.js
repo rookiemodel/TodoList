@@ -703,6 +703,7 @@ define( 'Application',['require','exports','module','backbone','collections/Todo
 
     module.exports = Application;
 });
+
 /**
  * detect.js
  */
