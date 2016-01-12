@@ -1,3 +1,9 @@
+/**
+ * Todo List
+ *
+ * author: Jinyong Joo
+ * version: 0.2
+ */
 
 //     Underscore.js 1.8.3
 //     http://underscorejs.org
