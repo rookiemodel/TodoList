@@ -1,0 +1,38 @@
+--------------------------------------- 
+File Structure 
+
+
+戍式式 dist
+弛   戍式式 css
+弛   弛   戌式式 style.min.css
+弛   戌式式 js
+弛        戍式式 vendor
+弛        弛   戌式式 require-2.1.9.min.js
+弛        戌式式 script.min.js
+弛
+戌式式 src
+      戍式式 css
+      弛   戌式式 style.css
+      戌式式 js
+	   戍式式 todolist
+	   弛   戍式式 collections
+	   弛   戍式式式式 TodoCollection.js
+	   弛   戍式式 models
+	   弛   戍式式式式 TodoModel.js
+	   弛   戍式式 templates
+	   弛	戍式式式式 stats.html
+	   弛	戍式式式式 todo.html
+	   弛   戍式式 views
+	   弛   戍式式式式 ApplicationView.js
+	   弛	戌式式式式 TodoView.js
+	   戌式式 vendor
+		戍式式 backbone.localStorage-1.1.16.min.js
+		戍式式 backbone-1.2.3.min.js
+		戍式式 jquery-1.11.0.min.js
+		戍式式 plugins.js
+		戍式式 require-2.1.9.min.js
+		戍式式 text.js
+		戌式式 underscore-1.8.3.min.js
+
+
+
