@@ -1,38 +1,34 @@
---------------------------------------- 
 File Structure 
 
 
-¦§¦¡¦¡ dist
-¦¢   ¦§¦¡¦¡ css
-¦¢   ¦¢   ¦¦¦¡¦¡ style.min.css
-¦¢   ¦¦¦¡¦¡ js
-¦¢        ¦§¦¡¦¡ vendor
-¦¢        ¦¢   ¦¦¦¡¦¡ require-2.1.9.min.js
-¦¢        ¦¦¦¡¦¡ script.min.js
-¦¢
-¦¦¦¡¦¡ src
-      ¦§¦¡¦¡ css
-      ¦¢   ¦¦¦¡¦¡ style.css
-      ¦¦¦¡¦¡ js
-	   ¦§¦¡¦¡ todolist
-	   ¦¢   ¦§¦¡¦¡ collections
-	   ¦¢   ¦§¦¡¦¡¦¡¦¡ TodoCollection.js
-	   ¦¢   ¦§¦¡¦¡ models
-	   ¦¢   ¦§¦¡¦¡¦¡¦¡ TodoModel.js
-	   ¦¢   ¦§¦¡¦¡ templates
-	   ¦¢	¦§¦¡¦¡¦¡¦¡ stats.html
-	   ¦¢	¦§¦¡¦¡¦¡¦¡ todo.html
-	   ¦¢   ¦§¦¡¦¡ views
-	   ¦¢   ¦§¦¡¦¡¦¡¦¡ ApplicationView.js
-	   ¦¢	¦¦¦¡¦¡¦¡¦¡ TodoView.js
-	   ¦¦¦¡¦¡ vendor
-		¦§¦¡¦¡ backbone.localStorage-1.1.16.min.js
-		¦§¦¡¦¡ backbone-1.2.3.min.js
-		¦§¦¡¦¡ jquery-1.11.0.min.js
-		¦§¦¡¦¡ plugins.js
-		¦§¦¡¦¡ require-2.1.9.min.js
-		¦§¦¡¦¡ text.js
-		¦¦¦¡¦¡ underscore-1.8.3.min.js
-
-
-
+â”œâ”€â”€ dist
+â”‚   â”œâ”€â”€ css
+â”‚   â”‚   â””â”€â”€ style.min.css
+â”‚   â””â”€â”€ js
+â”‚        â”œâ”€â”€ vendor
+â”‚        â”‚   â””â”€â”€ require-2.1.9.min.js
+â”‚        â””â”€â”€ script.min.js
+â”‚
+â””â”€â”€ src
+      â”œâ”€â”€ css
+      â”‚   â””â”€â”€ style.css
+      â””â”€â”€ js
+	   â”œâ”€â”€ todolist
+	   â”‚   â”œâ”€â”€ collections
+	   â”‚   â”œâ”€â”€â”€â”€ TodoCollection.js
+	   â”‚   â”œâ”€â”€ models
+	   â”‚   â”œâ”€â”€â”€â”€ TodoModel.js
+	   â”‚   â”œâ”€â”€ templates
+	   â”‚	â”œâ”€â”€â”€â”€ stats.html
+	   â”‚	â”œâ”€â”€â”€â”€ todo.html
+	   â”‚   â”œâ”€â”€ views
+	   â”‚   â”œâ”€â”€â”€â”€ ApplicationView.js
+	   â”‚	â””â”€â”€â”€â”€ TodoView.js
+	   â””â”€â”€ vendor
+		â”œâ”€â”€ backbone.localStorage-1.1.16.min.js
+		â”œâ”€â”€ backbone-1.2.3.min.js
+		â”œâ”€â”€ jquery-1.11.0.min.js
+		â”œâ”€â”€ plugins.js
+		â”œâ”€â”€ require-2.1.9.min.js
+		â”œâ”€â”€ text.js
+		â””â”€â”€ underscore-1.8.3.min.js
