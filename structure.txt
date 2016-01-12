@@ -1,6 +1,5 @@
 File Structure 
 
-
 ├── dist
 │   ├── css
 │   │   └── style.min.css
@@ -19,11 +18,11 @@ File Structure
 	   │   ├── models
 	   │   ├──── TodoModel.js
 	   │   ├── templates
-	   │	├──── stats.html
-	   │	├──── todo.html
+	   │   ├──── stats.html
+	   │   ├──── todo.html
 	   │   ├── views
 	   │   ├──── ApplicationView.js
-	   │	└──── TodoView.js
+	   │   └──── TodoView.js
 	   └── vendor
 		├── backbone.localStorage-1.1.16.min.js
 		├── backbone-1.2.3.min.js
