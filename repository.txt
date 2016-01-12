@@ -1,0 +1,6 @@
+--------------------------------------- 
+Clone Repository 
+
+Git Repository URL: https://github.com/rookiemodel/BoomBeach.git 
+Parent Directory: https://github.com/rookiemodel/BoomBeach.git
+Directory Name: BoomBeach
