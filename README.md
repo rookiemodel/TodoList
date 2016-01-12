@@ -1,4 +1,6 @@
 Todo List - MVC Pattern
 ================
 
-Require.js & Backbone MVC Framework → JavaScript Build, Grunt
+- JavaScript MVC Framework, Backbone 
+- JavaScript file and module loader, RequireJS 
+- Nodejs-based streaming builder, Gulp 
