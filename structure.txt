@@ -14,20 +14,22 @@ File Structure
       └── js
 	   ├── todolist
 	   │   ├── collections
-	   │   ├──── TodoCollection.js
+	   │   │   └── TodoCollection.js
 	   │   ├── models
-	   │   ├──── TodoModel.js
+	   │   │   └── TodoModel.js
 	   │   ├── templates
-	   │   ├──── stats.html
-	   │   ├──── todo.html
+	   │   │   ├── stats.html
+	   │   │   └── todo.html
 	   │   ├── views
-	   │   ├──── ApplicationView.js
-	   │   └──── TodoView.js
-	   └── vendor
-		├── backbone.localStorage-1.1.16.min.js
-		├── backbone-1.2.3.min.js
-		├── jquery-1.11.0.min.js
-		├── plugins.js
-		├── require-2.1.9.min.js
-		├── text.js
-		└── underscore-1.8.3.min.js
+	   │   │   ├── ApplicationView.js
+	   │   │   └── TodoView.js
+	   │   └─── Application.js
+	   ├── vendor
+	   │	├── backbone.localStorage-1.1.16.min.js
+	   │	├── backbone-1.2.3.min.js
+	   │	├── jquery-1.11.0.min.js
+	   │	├── plugins.js
+	   │	├── require-2.1.9.min.js
+	   │	├── text.js
+	   │	└── underscore-1.8.3.min.js
+	   └── config.js
