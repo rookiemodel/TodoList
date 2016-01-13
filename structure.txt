@@ -4,9 +4,10 @@ File Structure
 │   ├── css
 │   │   └── style.min.css
 │   └── js
-│        ├── vendor
-│        │   └── require-2.1.9.min.js
-│        └── script.min.js
+│   │    ├── vendor
+│   │    │   └── require-2.1.9.min.js
+│   │    └── script.min.js
+│   └── index.html
 │
 ├── src
 │   ├── css
