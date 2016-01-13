@@ -3,7 +3,7 @@ File Structure
 ├── dist
 │   ├── css
 │   │   └── style.min.css
-│   └── js
+│   ├── js
 │   │    ├── vendor
 │   │    │   └── require-2.1.9.min.js
 │   │    └── script.min.js
